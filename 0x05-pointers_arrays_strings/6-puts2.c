@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 
-/*
+/**
 * puts2 - function prints a string, then a new line, to stdout
 * @str: a pointer value
-* Return: Always null
+* Return: Always zero
 */
 
 void puts2(char *str)
