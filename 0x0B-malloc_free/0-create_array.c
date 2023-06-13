@@ -2,19 +2,11 @@
 #include <stdlib.h>
 
 /**
-
  * create_array - create array of size and assign char c
-
  * @size: size of array
-
  * @c: char to assign
-
  * Description: creat array of size and assign char c
-
  * Return: pointer to array
-
- * if error: return 0.
-
  */
 
 char *create_array(unsigned int size, char c)
